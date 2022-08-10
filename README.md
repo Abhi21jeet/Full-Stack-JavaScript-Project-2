@@ -9,7 +9,7 @@
 
 # Live Project 2 : Food Restaurant Home Page
 
-## Project 2: [Live Link]()
+## Project 2: [Live Link](https://live-project-2-fs-js.netlify.app/)
 
 -   Skills Gained in this project.
     -   Learnd to use css position property.
