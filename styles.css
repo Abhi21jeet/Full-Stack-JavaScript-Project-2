@@ -23,7 +23,8 @@ body {
 /* ---------- NAVBAR ------------ */
 .navbar {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: center;
 }
 .list {
   display: flex;
@@ -111,19 +112,26 @@ body {
   }
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 480px) {
   .container {
-    padding: 2%;
+    padding: 10px;
+  }
+  .navbar {
+    justify-content: space-between;
+  }
+  .button-small {
+    padding: 8px 10px;
+    font-size: 13px;
   }
   .logo {
-    height: 32px;
+    height: 2rem;
   }
   .hero-heading {
     margin-top: 120px;
-    font-size: 32px;
+    font-size: 40px;
   }
   .button-large {
-    width: 60%;
+    width: 80%;
   }
   .bottom img {
     height: 5rem;
