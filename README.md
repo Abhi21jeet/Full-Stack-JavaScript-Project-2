@@ -9,7 +9,8 @@
 
 # Live Project 2 : Food Restaurant Home Page
 
-## Project 2: [Live Link](https://live-project-2-fs-js.netlify.app/)
+## Project 2: (Mobile Responsive)
+[Live Link](https://live-project-2-fs-js.netlify.app/)
 
 -   Skills Gained in this project.
     -   Learnd to use css position property.
@@ -17,9 +18,9 @@
     
 ---
 
-## Time taken to finish this project⏲
+## Time taken to finish this project(including adding media queries)⏲
 
--   2hr to complete
+-   2.5hr to complete
 
 #### Screenshot
 
