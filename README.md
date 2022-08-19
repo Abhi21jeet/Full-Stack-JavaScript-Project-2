@@ -1,9 +1,11 @@
-# Assignment 1
+# Full Stack Javascript Bootcamp Assignment
 
 ![iNeuron, LCO](https://img.shields.io/badge/iNeuron-LCO-green)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20CSS-blue)
+
+![Name](https://img.shields.io/badge/Project%20Made%20by-Abhijeet%20Sharma-white)
 
 ![Live class](https://img.shields.io/badge/Live%20Project%201-Food%20Restaurant%20Home%20Page-orange)
 
