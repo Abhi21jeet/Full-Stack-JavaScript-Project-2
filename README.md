@@ -7,7 +7,7 @@
 
 ![Name](https://img.shields.io/badge/Project%20Made%20by-Abhijeet%20Sharma-white)
 
-![Live class](https://img.shields.io/badge/Live%20Project%201-Food%20Restaurant%20Home%20Page-orange)
+![Live class](https://img.shields.io/badge/Live%20Project%202-Food%20Restaurant%20Home%20Page-orange)
 
 # Live Project 2 : Food Restaurant Home Page
 
